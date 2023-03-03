@@ -8795,27 +8795,27 @@
 		{
 			"listen": "prerequest",
 			"script": {
+				"id": "cbda4351-14ad-4ba3-8147-2ea3232c8586",
 				"type": "text/javascript",
 				"exec": [
 					""
-				],
-				"id": "8675add4-0515-4364-9f0a-c68f1956c279"
+				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
+				"id": "a89186f3-2b55-4faa-aaa2-10b27eb56813",
 				"type": "text/javascript",
 				"exec": [
 					""
-				],
-				"id": "b8100523-f91c-4b61-8dfc-59be33511567"
+				]
 			}
 		}
 	],
 	"variable": [
 		{
-			"id": "35a7da50-477c-4d69-a266-c351c8fb9a76",
+			"id": "b207931b-ee3b-4f9e-9d3e-f8392e7dba7c",
 			"key": "baseUrl",
 			"value": "https://horizon.stellar.org",
 			"type": "string"
